@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blogs on aswaths.space Blog</title>
+        <link>/blog/</link>
+        <description>Recent content in Blogs on aswaths.space Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Aswath Subramanian</copyright>
+        <lastBuildDate>Thu, 05 Oct 2023 02:04:36 +0200</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Post0001</title>
+        <link>/blog/postooo1/post0001/</link>
+        <pubDate>Thu, 05 Oct 2023 02:04:36 +0200</pubDate>
+        
+        <guid>/blog/postooo1/post0001/</guid>
+        <description>&lt;img src="/testing.PNG" alt="Featured image of post Post0001" /&gt;&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
+&lt;p&gt;Random introductino stuff&lt;/p&gt;
+&lt;h1 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h1&gt;
+&lt;p&gt;First paragraph&lt;/p&gt;
+&lt;h2 id=&#34;heading-21&#34;&gt;Heading 2.1&lt;/h2&gt;
+&lt;p&gt;Argument&lt;/p&gt;
+&lt;h1 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h1&gt;
+&lt;p&gt;Conclusion&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
