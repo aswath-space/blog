@@ -67,7 +67,7 @@ params:
 
     comments:
         enabled: true
-        provider: giscus
+        provider: remark42
 
         disqusjs:
             shortname:
